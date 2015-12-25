@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Web
+# Visual Studio 14
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Basics", "Basics\Basics.fsproj", "{A0FDBD69-EB04-44C9-9DD5-169F90ED54BE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{3E57CA69-CB36-4DFC-8BFB-6E5FFC18FCD6}"
